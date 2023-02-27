@@ -22,5 +22,5 @@ To install and run this app locally, follow these steps:
 
 - Clone this repository to your local machine.
 - Install the necessary dependencies by running `npm install` in the command line.
-- Start the app by running `npm start`.
+- Start the app by running `node app.js`.
 - Visit http://localhost:3000 in your web browser to use the app.
